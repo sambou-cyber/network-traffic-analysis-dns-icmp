@@ -23,7 +23,7 @@ ICMP error responses indicating the port was unreachable.
 The DNS service on the destination server was unavailable, misconfigured,
 or blocked, preventing DNS resolution.
 
-## Recommended Fix
+## Recommended Fix-
 Restore DNS service availability by ensuring UDP port 53 is open and the
 DNS service is running.
 
