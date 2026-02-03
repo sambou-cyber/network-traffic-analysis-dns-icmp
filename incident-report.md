@@ -1,4 +1,4 @@
-# Cybersecurity Incident Report, DNS & ICMP
+# Cybersecurity Incident Report, DNS & ICMP-
 
 ## Incident Summary
 DNS queries to resolve `www.yummyrecipesforme.com` failed due to ICMP
