@@ -1,7 +1,7 @@
 # Network Traffic Analysis . DNS & ICMP (tcpdump)
 
 This project demonstrates how to analyze DNS and ICMP traffic using the
-Linux command-line tool tcpdump to identify why a website could not be reached.
+Linux command line tool tcpdump to identify why a website could not be reached.
 
 ## Summary
 Users were unable to access `www.yummyrecipesforme.com` and received a
@@ -28,6 +28,6 @@ Restore DNS service availability by ensuring UDP port 53 is open and the
 DNS service is running.
 
 ## Tools Used
-- tcpdump (Linux command-line packet analyzer)
+- tcpdump (Linux command line packet analyzer)
 - Linux command line
 - TCP/IP networking concepts
